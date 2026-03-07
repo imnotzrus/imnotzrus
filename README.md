@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, @imnotzrus</h2>
-<h3 align="center">A 🦀 engineer from 🇻🇳</h3>
+<h2 align="center">Hi 👋, @imneal</h2>
+<h3 align="center">A Rust | Go Engineer from 🇻🇳</h3>
 
 <div align="center">
   <picture>
